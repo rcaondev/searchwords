@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    margin: 25px;
+    padding: 35px;
+}
+p{
+    color: #212121;
+    font-weight: 300;
+    font-size: 1rem;
+    line-height: 1.9rem;
+    margin-bottom: 3rem;
+    padding: 1rem;
+}
+input{
+    min-width: 20rem;
+    border: none;
+    background: #eeeeee;
+    font-size: 1.1rem;
+    font-weight: 700;
+    padding: 1rem;
+    border-radius: 4px;
+    margin-right: 1rem;
+    min-height: 3.5rem;
+    color: #212121;
+    margin-left: 1rem;
+    
+}
+button{
+    border: none;
+    background: #00BFFF;
+    color: #fff;
+    font-weight: 700;
+    padding: 1rem;
+    min-height: 3.5rem;
+    border-radius: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.10rem;
+    cursor: pointer;
+}
+button:hover{
+    background: #1E90FF;
+}
